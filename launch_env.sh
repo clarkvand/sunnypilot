@@ -12,4 +12,4 @@ fi
 
 export STAGING_ROOT="/data/safe_staging"
 
-export FINGERPRINT="FORD_ESCAPE_MK4"
+export FINGERPRINT="FORD_MAVERICK_MK1"
